@@ -2,10 +2,10 @@ package Model;
 
 public class EmployeeAccount extends AccountInformation {
     private int employeeID;
-    public void setFirstName(String firstName) {}
-    public void setLastName(String lastName) {}
-    public void setPhoneNumber(double phoneNumber) {}
-    public void setEmail(String email) {}
-    public void setEmployeeID(int id) {}
-    public void setPassword(String password) {}
+    public void getFirstName(String firstName) {}
+    public void getLastName(String lastName) {}
+    public void getPhoneNumber(double phoneNumber) {}
+    public void getEmail(String email) {}
+    public void getEmployeeID(int id) {}
+    public void getPassword(String password) {}
 }
